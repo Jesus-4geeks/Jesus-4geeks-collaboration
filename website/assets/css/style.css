@@ -1,3 +1,7 @@
-body{
-    background: #BDBDBD;
+img {
+    height: 300px;
+    border-radius: 50%;
+}
+.second-header { 
+    color: gray;
 }
