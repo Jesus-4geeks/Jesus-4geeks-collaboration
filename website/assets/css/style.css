@@ -1,7 +1,16 @@
+
 img {
     height: 300px;
     border-radius: 50%;
 }
 .second-header { 
     color: gray;
+
+body{
+    /* background: #BDBDBD; */
+}
+
+nav * {
+    color: white !important;
+
 }
